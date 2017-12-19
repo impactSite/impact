@@ -1,0 +1,48 @@
+# Этот файл viminfo автоматически создан Vim 7.4.
+# Его можно (осторожно!) редактировать.
+
+# Значение опции 'encoding' в момент записи файла
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# Командная строка, история (начиная от свежего к старому):
+:wq
+:q
+
+# Строка поиска, история (начиная от свежего к старому):
+
+# Выражение, история (начиная от свежего к старому):
+
+# Строка ввода, история (начиная от свежего к старому):
+
+# Строка ввода, история (начиная от свежего к старому):
+
+# Регистры:
+
+# Глобальные отметки:
+'0  5  37  ~/www/marka-market.ru/admin/index.php
+'1  7  0  ~/www/marka-market.ru/include/globals.inc
+'2  59  0  ~/www/marka-market.ru/include/globals.inc
+
+# Список прыжков (сначала более свежие):
+-'  5  37  ~/www/marka-market.ru/admin/index.php
+-'  1  0  ~/www/marka-market.ru/admin/index.php
+-'  7  0  ~/www/marka-market.ru/include/globals.inc
+-'  59  0  ~/www/marka-market.ru/include/globals.inc
+-'  1  0  ~/www/marka-market.ru/include/globals.inc
+-'  7  0  ~/www/marka-market.ru/include/globals.inc
+-'  59  0  ~/www/marka-market.ru/include/globals.inc
+-'  1  0  ~/www/marka-market.ru/include/globals.inc
+
+# История местных отметок (от более свежих к старым):
+
+> ~/www/marka-market.ru/admin/index.php
+	"	5	37
+	^	5	38
+	.	5	37
+	+	5	37
+
+> ~/www/marka-market.ru/include/globals.inc
+	"	7	0

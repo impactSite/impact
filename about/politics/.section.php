@@ -1,0 +1,5 @@
+<?
+$sSectionName = "Политика";
+$arDirProperties = array(
+);
+?>
